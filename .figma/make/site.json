@@ -1,0 +1,10 @@
+{
+  "description": "Enables accessible blind hiring for Indonesian disabled candidates by masking identities and assessing skills via AI with multi-modal UI support.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
