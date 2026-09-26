@@ -4,7 +4,7 @@
  */
 
 export const API_BASE: string =
-  (import.meta.env?.VITE_API_URL as string | undefined) ?? 'http://127.0.0.1:8000/api';
+  (import.meta.env?.VITE_API_URL as string | undefined) ?? 'https://setarakerja.ncr.my.id/api';
 
 const TOKEN_KEY = 'sk_token';
 const USER_KEY = 'sk_user';
